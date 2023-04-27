@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " k ",
+    " w ",
+    " s "
+  ],
+  "key": {
+    "k": { 
+      "item": "minecraft:kelp"
+     },
+    "w": { 
+      "item": "minecraft:water_bucket"
+     },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result": {
+    "item": "forgeyoursword:my_sword"
+  }
+}
